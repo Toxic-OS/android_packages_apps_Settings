@@ -17,4 +17,20 @@
     <string name="toxic_version">Toxic version</string>
     <string name="toxic_version_default">Unknown</string>
 
+    <!-- About Toxic-OS -->
+    <string name="about_crdroid">About Toxic-OS</string>
+
+    <!-- Share Toxic -->
+    <string name="share_crdroid_title">Share Toxic-OS</string>
+    <string name="share_crdroid_summary">Let others know about Toxic-OS</string>
+    <string name="share_message">New Rom Toxic-OS What is it ?? Check it out here @ https://plus.google.com/communities/</string>
+    <string name="share_chooser_title">Share</string>
+
+    <!-- Sites -->
+    <string name="sites_crdroid">Useful links</string>
+    <string name="crdroid_source_title">Github</string>
+    <string name="crdroid_source_summary">Checkout the ROM\'s source</string>
+    <string name="crdroid_google_plus_title">Google+</string>
+    <string name="crdroid_google_plus_summary">Visit our G+ page To be Up-To Date</string>
+
 </resources>

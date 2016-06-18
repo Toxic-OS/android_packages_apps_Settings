@@ -136,6 +136,6 @@
                 android:summary="@string/selinux_status_enforcing"/>
 
         <PreferenceCategory android:title="Toxic Extra Info" />
-	<Preference android:title="@string/rom_chef" android:key="rom_chef" android:summary="@string/rom_chef_main" style="?android:preferenceInformationStyle" />
+	<Preference android:title="@string/rom_chef" android:key="rom_chef" android:summary="@string/chef_name" style="?android:preferenceInformationStyle" />
 
 </PreferenceScreen>

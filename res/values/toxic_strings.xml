@@ -33,4 +33,9 @@
     <string name="crdroid_google_plus_title">Google+</string>
     <string name="crdroid_google_plus_summary">Visit our G+ page To be Up-To Date</string>
 
+    <!-- Devices and Maintainers -->
+    <string name="device_maintainers_title">Devices and Maintainers</string>
+    <string name="device_maintainers_title_summary">List of Supported devices by Toxic-OS</string>
+
+
 </resources>

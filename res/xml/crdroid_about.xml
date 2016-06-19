@@ -22,15 +22,6 @@
         android:key="about"
         android:title="@string/about_crdroid">
         
-        <!-- Toxic Updates -->
-       	<PreferenceScreen
-                android:key="update_settings"
-                android:title="@string/toxic_updater_title">
-            <intent android:action="android.intent.action.MAIN"
-                    android:targetPackage="com.toxic.ota"
-                    android:targetClass="com.toxic.center.ToxicOTACenter" />
-        </PreferenceScreen>
-
         <!-- Devices and Maintainers -->
         <PreferenceScreen
             android:key="devices"

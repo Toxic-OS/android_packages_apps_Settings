@@ -20,6 +20,9 @@
     <!-- About Toxic-OS -->
     <string name="about_crdroid">About Toxic-OS</string>
 
+    <!-- OTA -->
+    <string name="toxic_updater_title">Toxic Updates</string> 
+
     <!-- Share Toxic -->
     <string name="share_crdroid_title">Share Toxic-OS</string>
     <string name="share_crdroid_summary">Let others know about Toxic-OS</string>

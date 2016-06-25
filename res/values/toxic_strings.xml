@@ -33,33 +33,12 @@
     <string name="sites_crdroid">Useful links</string>
     <string name="crdroid_source_title">Github</string>
     <string name="crdroid_source_summary">Checkout the ROM\'s source</string>
-    <string name="crdroid_google_plus_title">Google</string>
-    <string name="crdroid_google_plus_summary">Visit our G page To be Up-To Date</string>
+    <string name="crdroid_google_plus_title">Google+</string>
+    <string name="crdroid_google_plus_summary">Visit our G+ page To be Up-To Date</string>
 
     <!-- Devices and Maintainers -->
     <string name="device_maintainers_title">Devices and Maintainers</string>
     <string name="device_maintainers_title_summary">List of Supported devices by Toxic-OS</string>
 
-        <!-- ToxicStrings -->
-	<string name="toxic_section_key">Toxic</string>
-	<string name="toxic_section">Toxic</string>
- 	<string name="toxic_settings_title">ToxicSettings</string>
-	<string name="recents_settings_title">Recents</string>
-
-    <!-- Recents panel -->
-    <string name="recents_panel_category">Recents panel</string>
-    <string name="show_clear_all_recents_button_title">Clear all button</string>
-    <string name="show_clear_all_recents_button_summary">Show clear all button</string>
-    <string name="recents_clear_all_location_title">Clear all location</string>
-    <string name="recents_clear_all_location_top_right">Top right</string>
-    <string name="recents_clear_all_location_top_left">Top left</string>
-    <string name="recents_clear_all_location_top_center">Top center</string>
-    <string name="recents_clear_all_location_bottom_right">Bottom right</string>
-    <string name="recents_clear_all_location_bottom_left">Bottom left</string>
-    <string name="recents_clear_all_location_bottom_center">Bottom center</string>
-    <string name="recents_clear_all_dismiss_all_title">Clear all tasks</string>
-    <string name="recents_clear_all_dismiss_all_summary">Include foreground task when clearing all</string>
-    <string name="recents_searchbar_title">Search bar</string>
-    <string name="recents_searchbar_summary">Show Google search bar in the recents screen</string>
 
 </resources>

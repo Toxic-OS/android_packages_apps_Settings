@@ -99,6 +99,14 @@
             android:key="@string/category_key_device"
             android:title="@string/header_category_device" >
 
+        <!-- ToxicSettings -->
+        <dashboard-tile
+                android:id="@+id/main_settings"
+                android:title="@string/toxic_settings_title"
+                android:fragment="com.android.settings.toxic.MainSettings"
+                android:icon="@drawable/ic_toxicsettings" 
+                />        
+
         <!-- Sound -->
         <dashboard-tile
                 android:id="@+id/sound_settings"

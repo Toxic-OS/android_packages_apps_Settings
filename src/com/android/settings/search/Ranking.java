@@ -46,6 +46,7 @@ import com.android.settings.notification.SoundSettings;
 import com.android.settings.notification.ZenModeAutomationSettings;
 import com.android.settings.notification.ZenModePrioritySettings;
 import com.android.settings.notification.ZenModeSettings;
+import com.android.settings.toxic.MainSettings; 
 import com.android.settings.print.PrintSettingsFragment;
 import com.android.settings.sim.SimSettings;
 import com.android.settings.users.UserSettings;
@@ -85,7 +86,7 @@ public final class Ranking {
     public static final int RANK_PRINTING = 20;
     public static final int RANK_DEVELOPEMENT = 21;
     public static final int RANK_DEVICE_INFO = 22;
-
+    public static final int RANK_TOXIC = 23; 
     public static final int RANK_UNDEFINED = -1;
     public static final int RANK_OTHERS = 1024;
     public static final int BASE_RANK_DEFAULT = 2048;
@@ -117,7 +118,10 @@ public final class Ranking {
 
         // Home
         sRankMap.put(HomeSettings.class.getName(), RANK_HOME);
-
+         
+        // ToxicSettings
+        sRankMap.put(MainSettings.class.getName(), RANK_TOXIC);
+  
         // Display
         sRankMap.put(DisplaySettings.class.getName(), RANK_DISPLAY);
         sRankMap.put(ButtonSettings.class.getName(), RANK_DISPLAY);

@@ -21,7 +21,7 @@
                           android:layout="@layout/toxic_settings_logo_row" />
 
         <!-- Buttons -->
-        <PreferenceScreen
+        <dashboard-tile
                 android:id="@+id/button_settings"
                 android:title="@string/button_pref_title"
                 android:fragment="com.android.settings.ButtonSettings"

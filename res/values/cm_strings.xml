@@ -1210,14 +1210,8 @@
     <string name="toxic_section_key">Toxic OS</string>
     <string name="toxic_section">Toxic OS</string>
     <string name="toxic_settings_title">Toxic Settings</string>
-<<<<<<< HEAD
     <string name="recents_settings_title">Recents</string> 
     
-    <!-- Restart SystemUI -->
-    <string name="restart_systemui">Restart SystemUI</string>
-=======
->>>>>>> parent of b7d3070... Add option to Restart SystemUI to DevSettings
-	
     <!-- title for lock screen blur preference -->
     <string name="lockscreen_blur_enabled_title">Blur background</string>
     <!-- title for lock screen weather preference -->

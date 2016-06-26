@@ -19,10 +19,14 @@ import android.os.Bundle;
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 import android.preference.Preference.OnPreferenceChangeListener;
+import android.preference.ListPreference;
+import android.preference.Preference;
+import android.preference.PreferenceCategory;
+import android.preference.PreferenceScreen;
 import com.android.internal.logging.MetricsLogger;
 
-public class RecentsSettings extends SettingsPreferenceFragment
-            implements OnPreferenceChangeListener  {
+public class RecentsSettings extends SettingsPreferenceFragment implements
+        Preference.OnPreferenceChangeListener {
 
 
     @Override

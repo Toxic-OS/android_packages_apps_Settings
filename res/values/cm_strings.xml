@@ -1207,7 +1207,10 @@
     <string name="shortcut_carrier_title">Network operators</string>
     
     <!--ToxicStrings -->
+    <string name="toxic_section_key">Toxic OS</string>
+    <string name="toxic_section">Toxic OS</string>
     <string name="toxic_settings_title">Toxic Settings</string>
+    <string name="recents_settings_title">Recents</string> 
     
     <!-- Restart SystemUI -->
     <string name="restart_systemui">Restart SystemUI</string>

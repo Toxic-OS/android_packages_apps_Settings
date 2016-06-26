@@ -18,6 +18,7 @@ package com.android.settings.toxic;
 import android.os.Bundle;
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
+import android.preference.Preference.OnPreferenceChangeListener;
 import com.android.internal.logging.MetricsLogger;
 
 public class RecentsSettings extends SettingsPreferenceFragment

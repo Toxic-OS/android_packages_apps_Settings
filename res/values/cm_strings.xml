@@ -1207,10 +1207,7 @@
     <string name="shortcut_carrier_title">Network operators</string>
     
     <!--ToxicStrings -->
-    <string name="toxic_section_key">Toxic OS</string>
-    <string name="toxic_section">Toxic OS</string>
     <string name="toxic_settings_title">Toxic Settings</string>
-    <string name="recents_settings_title">Recents</string> 
     
     <!-- title for lock screen blur preference -->
     <string name="lockscreen_blur_enabled_title">Blur background</string>

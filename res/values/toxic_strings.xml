@@ -20,6 +20,9 @@
     <!-- About Toxic-OS -->
     <string name="about_crdroid">About Toxic-OS</string>
 
+    <!-- The Drill -->
+    <string name="toxic_drill_title">The Drill</string>
+
     <!-- OTA -->
     <string name="toxic_updater_title">Toxic Updates</string> 
 

@@ -20,10 +20,10 @@
 
     <!-- Phone brand -->
  <!--    <string name="device_category_google_title">GOOGLE</string>
-    <string name="device_category_sony_title">SONY</string> 
-    <string name="device_category_oneplus_title">ONE PLUS</string> -->  
+    <string name="device_category_sony_title">SONY</string> -->  
     <string name="device_category_rom_title">ROM DEVELOPER</string>   
     <string name="device_category_samsung_title">SAMSUNG</string>
+    <string name="device_category_oneplus_title">ONE PLUS</string> 
 
 
     <!-- Supported Devices and Maintainers -->
@@ -33,5 +33,9 @@
     <!-- Samsung devices -->
     <string name="device_samsung_ms013g">Samsung Galaxy Grand 2</string>
     <string name="device_samsung_ms013g_summary">ms013g \nMaintainer - AdityaUpreti</string>
+
+    <!-- One Plus -->
+    <string name="device_oneplus_one">OnePlus 2</string>
+    <string name="device_samsung_one_summary">Op2 \nMaintainer - Aditya Upreti</string>
 
 </resources>

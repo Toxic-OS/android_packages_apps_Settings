@@ -36,6 +36,6 @@
 
     <!-- One Plus -->
     <string name="device_oneplus_one">OnePlus 2</string>
-    <string name="device_samsung_one_summary">Op2 \nMaintainer - Aditya Upreti</string>
+    <string name="device_oneplus_one_summary">Oneplus2 \nMaintainer - Aditya Upreti</string>
 
 </resources>

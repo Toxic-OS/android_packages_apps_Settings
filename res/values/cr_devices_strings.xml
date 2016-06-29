@@ -35,7 +35,10 @@
     <string name="device_samsung_ms013g_summary">ms013g \nMaintainer - AdityaUpreti</string>
 
     <!-- One Plus -->
-    <string name="device_oneplus_one">OnePlus 2</string>
-    <string name="device_oneplus_one_summary">Oneplus2 \nMaintainer - Aditya Upreti</string>
+    <string name="device_oneplus_two">OnePlus 2</string>
+    <string name="device_oneplus_two_summary">Oneplus2 \nMaintainer - Aditya Upreti</string>
+
+    <string name="device_oneplus_one">OnePlus 1</string>
+    <string name="device_oneplus_one_summary">bacon \nMaintainer - Aditya Upreti</string>
 
 </resources>

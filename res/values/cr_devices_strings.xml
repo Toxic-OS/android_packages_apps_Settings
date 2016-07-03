@@ -23,7 +23,8 @@
     <string name="device_category_sony_title">SONY</string> -->  
     <string name="device_category_rom_title">ROM DEVELOPER</string>   
     <string name="device_category_samsung_title">SAMSUNG</string>
-    <string name="device_category_oneplus_title">ONE PLUS</string> 
+    <string name="device_category_oneplus_title">ONE PLUS</string>
+    <string name="device_category_yu_title">YU</string>
 
 
     <!-- Supported Devices and Maintainers -->
@@ -40,5 +41,8 @@
 
     <string name="device_oneplus_one">OnePlus 1</string>
     <string name="device_oneplus_one_summary">bacon \nMaintainer - Aditya Upreti</string>
-
+    
+    <!-- YU Devices -->
+    <string name="device_yu_yuphoria">Yuphoria</string>
+    <string name="device_yu_yuphoria_summary">Yuphoria \nMaintainer - Sagar Shah</string>
 </resources>

@@ -1025,5 +1025,10 @@
   <!-- CmRadioInfo -->
   <!-- Radio Control (IMS/MBN etc.) -->
   <!-- Lock screen wallpaper -->
+<<<<<<< HEAD
 
+=======
+  <!-- Format string for fingerprint location message -->
+  <!-- Fingerprint sensor locations -->
+>>>>>>> b2a048a... Automatic translation import
 </resources>

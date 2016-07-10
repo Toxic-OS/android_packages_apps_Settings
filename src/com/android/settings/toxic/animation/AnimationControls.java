@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.android.settings.own.animation;
+package com.android.settings.toxic.animation;
 
 import android.app.Activity;
 import android.content.Intent;

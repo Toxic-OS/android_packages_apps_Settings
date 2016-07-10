@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.settings.own.animation;
+package com.android.settings.toxic.animation;
 
 import android.content.Context;
 import android.content.res.TypedArray;

@@ -19,6 +19,6 @@
     <PreferenceScreen
         android:key="aokp_animation"
         android:title="@string/system_animation_title"
-        android:fragment="com.android.settings.own.animation.AnimationControls" />
+        android:fragment="com.android.settings.toxic.animation.AnimationControls" />
 
 </PreferenceScreen>

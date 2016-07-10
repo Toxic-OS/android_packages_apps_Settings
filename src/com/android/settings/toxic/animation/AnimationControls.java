@@ -29,11 +29,11 @@ import android.preference.SwitchPreference;
 import android.provider.Settings;
 
 import com.android.settings.SettingsPreferenceFragment;
-import com.android.settings.own.animation.AnimBarPreference;
+import com.android.settings.toxic.animation.AnimBarPreference;
 import com.android.settings.R;
 
 import com.android.internal.logging.MetricsLogger;
-import com.android.internal.util.benzo.AwesomeAnimationHelper;
+import com.android.internal.util.toxic.AwesomeAnimationHelper;
 
 import java.util.Arrays;
 

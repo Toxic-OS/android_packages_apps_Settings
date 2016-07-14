@@ -42,6 +42,9 @@
     <string name="device_oneplus_one">OnePlus 1</string>
     <string name="device_oneplus_one_summary">bacon \nMaintainer - Aditya Upreti</string>
     
+    <string name="device_oneplus_x">OnePlus X</string>
+    <string name="device_oneplus_x_summary">onyx \nMaintainer - Subhrajyoti Sen</string>
+    
     <!-- YU Devices -->
     <string name="device_yu_yuphoria">Yuphoria</string>
     <string name="device_yu_yuphoria_summary">Yuphoria \nMaintainer - Sagar Shah</string>
